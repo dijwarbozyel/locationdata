@@ -1,0 +1,20 @@
+{
+  "locations": [
+    {
+      "name": "Smartiks Davutpaşa",
+      "position": [41.018878, 28.890478],
+    },
+    {
+      "name": "Smartiks Kozyatağı",
+      "location": [40.982364, 29.092623]
+    },
+    {
+      "name": "Smartiks Dubai",
+      "location": [25.097702, 55.163759]
+    },
+	{
+      "name": "Smartiks Amerika",
+      "location": [37.406315, -121.976547]
+    }
+  ]
+}
